@@ -1,0 +1,1 @@
+This is a chrome extensions created because I am a stupid fuck who does not look at the code before merging PRs.
